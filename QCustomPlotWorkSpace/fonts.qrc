@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/fontss">
+        <file>OpenSans-Regular.ttf</file>
+        <file>Vera.ttf</file>
+    </qresource>
+</RCC>
