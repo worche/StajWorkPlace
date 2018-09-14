@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ImageBox/1.png</file>
+        <file>ImageBox/2.png</file>
+        <file>ImageBox/3.png</file>
+        <file>ImageBox/4.png</file>
+        <file>ImageBox/5.png</file>
+        <file>ImageBox/6.png</file>
+        <file>ImageBox/7.png</file>
+        <file>ImageBox/8.png</file>
+        <file>Fatal_Papyrus_The_Death_Skeleton.png</file>
+    </qresource>
+</RCC>
